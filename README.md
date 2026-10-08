@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Ashok Singh - Full Stack Developer" width="100%">
+<img src="banner.svg" alt="Ashok Singh - Full Stack Developer in Training" width="100%">
 
 </div>
 
@@ -45,7 +45,7 @@
 <a href="https://www.instagram.com/alpha_code_05"><img src="b_instagram.svg" alt="Instagram" width="23%"></a>
 <a href="https://github.com/Ashok0517"><img src="b_github.svg" alt="GitHub" width="23%"></a>
 
-*Text links:*
+**Text links:**
 [LinkedIn](https://www.linkedin.com/in/ashoksingh91) | [Email](mailto:ashokcyberdev17@gmail.com) | [Instagram](https://www.instagram.com/alpha_code_05) | [GitHub](https://github.com/Ashok0517)
 
 <br>
