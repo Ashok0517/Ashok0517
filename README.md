@@ -1,4 +1,4 @@
-## Hi, I'm Ashok 👋
+## Hi, I'm Ashok Singh👋
 
 BCA student from Uttarakhand, India. I'm learning web development and building small projects to practice.
 
@@ -6,6 +6,8 @@ BCA student from Uttarakhand, India. I'm learning web development and building s
 - HTML
 - CSS
 - JavaScript
+- React.js
+- Node.js
 
 ### Projects
 - [javascript-assignments](https://github.com/Ashok0517/javascript-assignments): 6 JavaScript assignments and a capstone project ([live demo](https://ashok0517.github.io/javascript-assignments/))
